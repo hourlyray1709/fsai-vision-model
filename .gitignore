@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# the dataset 
+fsoco_bounding_boxes_train.zip
+fsoco_bounding_boxes_train/
+fsoco_bounding_boxes_train_yolo/
+yolo26m.pt
+runs/
