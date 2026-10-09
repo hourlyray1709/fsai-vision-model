@@ -223,3 +223,5 @@ fsoco_bounding_boxes_train/
 fsoco_bounding_boxes_train_yolo/
 yolo26m.pt
 runs/
+fsoco_converted/
+models/
